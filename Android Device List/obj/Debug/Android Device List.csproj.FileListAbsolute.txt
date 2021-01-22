@@ -1,0 +1,20 @@
+C:\Users\knife\source\repos\Android Device List\Android Device List\bin\Debug\Android Device List.exe.config
+C:\Users\knife\source\repos\Android Device List\Android Device List\bin\Debug\Android Device List.exe
+C:\Users\knife\source\repos\Android Device List\Android Device List\bin\Debug\Android Device List.pdb
+C:\Users\knife\source\repos\Android Device List\Android Device List\obj\Debug\Android Device List.csprojAssemblyReference.cache
+C:\Users\knife\source\repos\Android Device List\Android Device List\obj\Debug\Android Device List.csproj.CoreCompileInputs.cache
+C:\Users\knife\source\repos\Android Device List\Android Device List\obj\Debug\Android Device List.exe
+C:\Users\knife\source\repos\Android Device List\Android Device List\obj\Debug\Android Device List.pdb
+C:\Users\knife\source\repos\Android Device List\Android Device List\bin\Debug\Newtonsoft.Json.dll
+C:\Users\knife\source\repos\Android Device List\Android Device List\bin\Debug\Newtonsoft.Json.xml
+C:\Users\knife\source\repos\Android Device List\Android Device List\obj\Debug\Android Device List.csproj.CopyComplete
+C:\Users\knife\source\repos\KnifeLemon\Android-Device-List\Android Device List\bin\Debug\Android Device List.exe.config
+C:\Users\knife\source\repos\KnifeLemon\Android-Device-List\Android Device List\bin\Debug\Android Device List.exe
+C:\Users\knife\source\repos\KnifeLemon\Android-Device-List\Android Device List\bin\Debug\Android Device List.pdb
+C:\Users\knife\source\repos\KnifeLemon\Android-Device-List\Android Device List\bin\Debug\Newtonsoft.Json.dll
+C:\Users\knife\source\repos\KnifeLemon\Android-Device-List\Android Device List\bin\Debug\Newtonsoft.Json.xml
+C:\Users\knife\source\repos\KnifeLemon\Android-Device-List\Android Device List\obj\Debug\Android Device List.csprojAssemblyReference.cache
+C:\Users\knife\source\repos\KnifeLemon\Android-Device-List\Android Device List\obj\Debug\Android Device List.csproj.CoreCompileInputs.cache
+C:\Users\knife\source\repos\KnifeLemon\Android-Device-List\Android Device List\obj\Debug\Android Device List.csproj.CopyComplete
+C:\Users\knife\source\repos\KnifeLemon\Android-Device-List\Android Device List\obj\Debug\Android Device List.exe
+C:\Users\knife\source\repos\KnifeLemon\Android-Device-List\Android Device List\obj\Debug\Android Device List.pdb

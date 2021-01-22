@@ -1,0 +1,10 @@
+C:\Users\knife\source\repos\KnifeLemon\Android-Device-List\Android Device List\bin\Release\Android Device List.exe.config
+C:\Users\knife\source\repos\KnifeLemon\Android-Device-List\Android Device List\bin\Release\Android Device List.exe
+C:\Users\knife\source\repos\KnifeLemon\Android-Device-List\Android Device List\bin\Release\Android Device List.pdb
+C:\Users\knife\source\repos\KnifeLemon\Android-Device-List\Android Device List\bin\Release\Newtonsoft.Json.dll
+C:\Users\knife\source\repos\KnifeLemon\Android-Device-List\Android Device List\bin\Release\Newtonsoft.Json.xml
+C:\Users\knife\source\repos\KnifeLemon\Android-Device-List\Android Device List\obj\Release\Android Device List.csprojAssemblyReference.cache
+C:\Users\knife\source\repos\KnifeLemon\Android-Device-List\Android Device List\obj\Release\Android Device List.csproj.CoreCompileInputs.cache
+C:\Users\knife\source\repos\KnifeLemon\Android-Device-List\Android Device List\obj\Release\Android Device List.csproj.CopyComplete
+C:\Users\knife\source\repos\KnifeLemon\Android-Device-List\Android Device List\obj\Release\Android Device List.exe
+C:\Users\knife\source\repos\KnifeLemon\Android-Device-List\Android Device List\obj\Release\Android Device List.pdb
